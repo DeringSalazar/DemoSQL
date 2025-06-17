@@ -8,7 +8,7 @@ app.use(express.json());
 // Base de datos simulada
 let datos = {
   id: 1,
-  nombre: 'Franklin',
+  nombre: 'Dering',
   profesion: 'Desarrollador'
 };
 
